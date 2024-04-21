@@ -38,7 +38,22 @@ driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
 time.sleep(3)
 
 start = 1 
-end = 3
+end = 2
+
+
+df = pd.DataFrame()
+name_lis = []
+link_lis = []
+area_lis = []
+price_lis = []
+lat_lis = []
+long_lis = []
+loc_lis = []
+prov_lis = []
+sub_district_lis = []
+img_lis = []
+area_lis = []
+prop_lis = []
 
 for page in range(start,end+1):
 
@@ -57,25 +72,52 @@ for page in range(start,end+1):
 
         #switch to new tab
         driver.switch_to.window(driver.window_handles[-1])
-
-
+        # Link 
         link = driver.current_url 
         url_lis.append(link)
         print(link)
 
-
+        #Name
         name = driver.find_element(By.CSS_SELECTOR,'span.sc-dkPtRN').text
         print(name)
+        name_lis.append(name)
 
+        #Price
         price = driver.find_element(By.CSS_SELECTOR,'span.egCfYl').text 
         print(price)
+        price_lis.append(price)
+
+        img = driver.find_element(By.CSS_SELECTOR,'div.sc-kfPuZi').get_attribute('src')
+        print(img)
+        img_lis.append(img)
+
+        area = [ p.text for p in driver.find_elements(By.CSS_SELECTOR,'span.sc-gsDKAQ')][13]
+        print(area)
+        area_lis.append(area)
+
 
         # loc = driver.find_element(By.CSS_SELECTOR,'span.WtLyf').text 
         # print(loc)
+        customx = [ g.text for g in driver.find_elements(By.CSS_SELECTOR,'div.hfuCGv')]
+        print(customx)
+
+        loc = customx[4]
+        print(loc)
+        loc_lis.append(loc)
 
 
+        province = customx[5]
+        print(province)
+        prov_lis.append(province)
+
+        sub_distrct = customx[6]
+        print(sub_distrct)
+        sub_district_lis.append(sub_distrct)
+
+        #Proptype
         proptype = driver.find_element(By.CSS_SELECTOR,'.sc-crHmcD .dOfHNG').text
         print(proptype)
+        prop_lis.append(proptype)
 
         # Google Map
         google_maps_pattern = r"https?://(?:www\.)?google\.com/maps/search/\?.*"
@@ -90,11 +132,19 @@ for page in range(start,end+1):
         google_map_links = soup.find_all('a', href=re.compile(google_maps_pattern))
 
         # Extract and print the Google Maps links
-        for link in google_map_links:
-            google_maps_link = link['href']
+        for linkx in google_map_links:
+            google_maps_link = linkx['href']
             print("Google Maps link:", google_maps_link)
+            
+        lat_long = google_maps_link.split("=")[-1]
 
-        
+        lat = lat_long.split(",")[0]
+        print("Lat : ",lat)
+        lat_lis.append(lat)
+
+        long = lat_long.split(",")[1]
+        print("Long : ",long)
+        long_lis.append(long)
         # switch back to original tab
         driver.switch_to.window(driver.window_handles[0])
         # Get the current window handle
@@ -118,3 +168,19 @@ for page in range(start,end+1):
     btn_next = driver.find_element(By.CSS_SELECTOR,'button.pagination-next')
     driver.execute_script("arguments[0].click();", btn_next)   
 
+df = pd.DataFrame()
+df['Name'] = name_lis
+df['Link'] = url_lis 
+df['area'] = area_lis
+df['Price'] = price_lis
+df['Lat'] = lat_lis
+df['Long'] = long_lis
+df['Address'] = loc_lis
+df['Province'] = prov_lis
+df['District'] = sub_district_lis
+df['Sub District'] = sub_district_lis 
+df['image'] = img_lis
+df['Type'] = prop_lis 
+
+
+df.to_excel("bam.xlsx")
