@@ -141,5 +141,7 @@ df['District'] = sub_district_lis[:len(lis)]
 df['Sub District'] = sub_district_lis[:len(lis)] 
 df['image'] = img_lis[:len(lis)] 
 
+# remove null row
+df.dropna()
 df.to_excel(filename)
 

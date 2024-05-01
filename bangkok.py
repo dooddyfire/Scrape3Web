@@ -47,6 +47,9 @@ sub_district_lis = []
 img_lis = []
 area_lis = []
 prop_lis = []
+gmap_main_lis = []
+gmap_correct_lis = []
+
 
 for page in range(start,end+1): 
 
@@ -68,14 +71,6 @@ for page in range(start,end+1):
             #print(url)
             url_lis.append(url)
 
-        # driver.get(url)
-        # time.sleep(3)
-        # driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-        
-
-        # print(driver.page_source)
-        # proptype = driver.find_element(By.CSS_SELECTOR,'label#lblPropertyType').text         
-        # print(proptype)
 
 # option headless
 options = Options()
@@ -83,11 +78,16 @@ options = Options()
 options.add_argument('--disable-gpu')
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
+# Set Fix Total Item 
+total_item = 500
 
-
-
+count = 1  
 for x in url_lis: 
-
+    # test debug
+    if count == total_item: 
+        break
+    
+    print("-------------------- Item {} -----------------".format(count))
     print(x)
     driver.get(x)
     time.sleep(3)
@@ -103,8 +103,8 @@ for x in url_lis:
     # print(img)
 
     lis_link = driver.find_elements(By.CSS_SELECTOR,'a')
-    lat_long = [ d.get_attribute('href') for d in lis_link][145]
-    print(lat_long)
+    gmap = [ d.get_attribute('href') for d in lis_link][145]
+    print(gmap)
 
 
 
@@ -128,11 +128,7 @@ for x in url_lis:
         price = custom[16].text
         print(price)
 
-        lat =  lat_long
-        print("Lat : ",lat)
-
-        long = lat_long
-        print("Long : ",long)
+        
 
         address = custom[14].text
         print("Address : ",address)
@@ -142,17 +138,50 @@ for x in url_lis:
     except: 
         print("Skip")
         continue
+
+    count = count + 1
+
+
+
     name_lis.append(name)
     link_lis.append(linkdd)
     area_lis.append(area)
     price_lis.append(price)
-    lat_lis.append(lat_long)
-    long_lis.append(lat_long)
+
     loc_lis.append(address)
     prov_lis.append(province)
     sub_district_lis.append(province)
     img_lis.append(img)
     prop_lis.append(proptype)
+
+
+    gmap_main_lis.append(gmap)
+
+print(gmap_main_lis)
+for google_map in gmap_main_lis: 
+    driver.get(google_map)
+
+    time.sleep(3)
+    btn_search = driver.find_element(By.CSS_SELECTOR,'#searchbox-searchbutton')
+    btn_search.click()
+
+    time.sleep(3)
+    lat_longx = driver.find_element(By.CSS_SELECTOR,'h2.bwoZTb').text
+    print(lat_longx)
+
+    lat_longx = lat_longx.split(",")
+
+    lat = lat_longx[0]
+    print("Lat : ",lat)
+            
+    long = lat_longx[1]
+    print("Long : ",long) 
+
+    lat_lis.append(lat)
+    long_lis.append(long)
+
+    gmap_correct = f"https://www.google.co.th/maps/place/{lat},{long}"
+    gmap_correct_lis.append(gmap_correct)
 
 df = pd.DataFrame()
 df['Name'] = name_lis
@@ -166,7 +195,10 @@ df['Province'] = prov_lis
 df['District'] = sub_district_lis
 df['Sub District'] = sub_district_lis 
 df['image'] = img_lis
+df['Google Map'] = gmap_correct_lis
 
+# remove null row
+df.dropna()
 df.to_excel(filename)
 
     # proptype = driver.find_element(By.CSS_SELECTOR,'#lblPropertyType').text 
