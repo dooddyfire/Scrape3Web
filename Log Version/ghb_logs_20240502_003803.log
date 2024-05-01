@@ -1,0 +1,578 @@
+2024-05-02 00:38:16,596 - ghb_logger - DEBUG - ['1', '2', '3', '4', '5', '...', '954', 'ถัดไป']
+2024-05-02 00:38:16,597 - ghb_logger - INFO - End Page : 3
+2024-05-02 00:38:20,895 - ghb_logger - INFO - Page : 1
+2024-05-02 00:38:20,908 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201679
+2024-05-02 00:38:25,105 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240430916013133606
+2024-05-02 00:38:25,106 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:38:25,106 - ghb_logger - DEBUG - Price : 1,200,000 บาท
+2024-05-02 00:38:25,109 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:38:25,109 - ghb_logger - DEBUG - Province : กาญจนบุรี
+2024-05-02 00:38:25,109 - ghb_logger - DEBUG - District : อำเภอ/เขต ท่าม่วง
+2024-05-02 00:38:25,109 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองขาว
+2024-05-02 00:38:25,110 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองขาว อำเภอ/เขต ท่าม่วง กาญจนบุรี
+2024-05-02 00:38:25,124 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201678
+2024-05-02 00:38:29,171 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240430915660565888
+2024-05-02 00:38:29,172 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บียอนด์(หัวทะเล))
+2024-05-02 00:38:29,172 - ghb_logger - DEBUG - Price : 2,790,000 บาท
+2024-05-02 00:38:29,174 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:38:29,174 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:38:29,175 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:38:29,175 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองบัวศาลา
+2024-05-02 00:38:29,175 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองบัวศาลา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:38:29,190 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201676
+2024-05-02 00:38:33,204 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429152349745427
+2024-05-02 00:38:33,204 - ghb_logger - DEBUG - Name : ขายคอนโด (วินน์ธานี)
+2024-05-02 00:38:33,204 - ghb_logger - DEBUG - Price : 800,000 บาท
+2024-05-02 00:38:33,207 - ghb_logger - DEBUG - Type : ประเภททรัพย์ คอนโด
+2024-05-02 00:38:33,207 - ghb_logger - DEBUG - Province : ปทุมธานี
+2024-05-02 00:38:33,207 - ghb_logger - DEBUG - District : อำเภอ/เขต คลองหลวง
+2024-05-02 00:38:33,207 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง คลองหนึ่ง
+2024-05-02 00:38:33,208 - ghb_logger - DEBUG - Address : ตำบล/แขวง คลองหนึ่ง อำเภอ/เขต คลองหลวง ปทุมธานี
+2024-05-02 00:38:33,220 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201675
+2024-05-02 00:38:36,531 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429152194924874
+2024-05-02 00:38:36,531 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:38:36,531 - ghb_logger - DEBUG - Price : 1,650,000 บาท
+2024-05-02 00:38:36,535 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:38:36,535 - ghb_logger - DEBUG - Province : นนทบุรี
+2024-05-02 00:38:36,536 - ghb_logger - DEBUG - District : อำเภอ/เขต ไทรน้อย
+2024-05-02 00:38:36,536 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ไทรน้อย
+2024-05-02 00:38:36,536 - ghb_logger - DEBUG - Address : ตำบล/แขวง ไทรน้อย อำเภอ/เขต ไทรน้อย นนทบุรี
+2024-05-02 00:38:36,550 - ghb_logger - DEBUG - Lat : 13.9791
+2024-05-02 00:38:36,551 - ghb_logger - DEBUG - Longitude : 100.339
+2024-05-02 00:38:36,551 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201674
+2024-05-02 00:38:39,647 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429152024151631
+2024-05-02 00:38:39,648 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:38:39,648 - ghb_logger - DEBUG - Price : 1,900,000 บาท
+2024-05-02 00:38:39,651 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:38:39,651 - ghb_logger - DEBUG - Province : นนทบุรี
+2024-05-02 00:38:39,651 - ghb_logger - DEBUG - District : อำเภอ/เขต บางบัวทอง
+2024-05-02 00:38:39,651 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ละหาร
+2024-05-02 00:38:39,652 - ghb_logger - DEBUG - Address : ตำบล/แขวง ละหาร อำเภอ/เขต บางบัวทอง นนทบุรี
+2024-05-02 00:38:39,667 - ghb_logger - DEBUG - Lat : 13.949
+2024-05-02 00:38:39,668 - ghb_logger - DEBUG - Longitude : 100.407
+2024-05-02 00:38:39,668 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201672
+2024-05-02 00:38:45,335 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429151754987153
+2024-05-02 00:38:45,335 - ghb_logger - DEBUG - Name : ขายคอนโด (เดอะไพรเวซี่ ลาดพร้าว-เสนา)
+2024-05-02 00:38:45,335 - ghb_logger - DEBUG - Price : 1,999,999 บาท
+2024-05-02 00:38:45,338 - ghb_logger - DEBUG - Type : ประเภททรัพย์ คอนโด
+2024-05-02 00:38:45,338 - ghb_logger - DEBUG - Province : กรุงเทพมหานคร
+2024-05-02 00:38:45,339 - ghb_logger - DEBUG - District : อำเภอ/เขต ลาดพร้าว
+2024-05-02 00:38:45,339 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ลาดพร้าว
+2024-05-02 00:38:45,339 - ghb_logger - DEBUG - Address : ตำบล/แขวง ลาดพร้าว อำเภอ/เขต ลาดพร้าว กรุงเทพมหานคร
+2024-05-02 00:38:45,354 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201671
+2024-05-02 00:38:50,345 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429151580117372
+2024-05-02 00:38:50,346 - ghb_logger - DEBUG - Name : ขายคอนโด (ชาโตว์ อินทาวน์ จรัญสนิทวงศ์ 96/2)
+2024-05-02 00:38:50,346 - ghb_logger - DEBUG - Price : 3,200,000 บาท
+2024-05-02 00:38:50,348 - ghb_logger - DEBUG - Type : ประเภททรัพย์ คอนโด
+2024-05-02 00:38:50,348 - ghb_logger - DEBUG - Province : กรุงเทพมหานคร
+2024-05-02 00:38:50,348 - ghb_logger - DEBUG - District : อำเภอ/เขต บางพลัด
+2024-05-02 00:38:50,349 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บางอ้อ
+2024-05-02 00:38:50,349 - ghb_logger - DEBUG - Address : ตำบล/แขวง บางอ้อ อำเภอ/เขต บางพลัด กรุงเทพมหานคร
+2024-05-02 00:38:50,367 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201673
+2024-05-02 00:38:54,267 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240429151889434767
+2024-05-02 00:38:54,268 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (คณาสิริ วงแหวน-พระราม 5)
+2024-05-02 00:38:54,268 - ghb_logger - DEBUG - Price : 4,999,999 บาท
+2024-05-02 00:38:54,271 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:38:54,271 - ghb_logger - DEBUG - Province : นนทบุรี
+2024-05-02 00:38:54,271 - ghb_logger - DEBUG - District : อำเภอ/เขต บางกรวย
+2024-05-02 00:38:54,271 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ศาลากลาง
+2024-05-02 00:38:54,271 - ghb_logger - DEBUG - Address : ตำบล/แขวง ศาลากลาง อำเภอ/เขต บางกรวย นนทบุรี
+2024-05-02 00:38:54,287 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201436
+2024-05-02 00:38:58,440 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426108774145881
+2024-05-02 00:38:58,441 - ghb_logger - DEBUG - Name : ขายที่ดิน (บ้านสวนดอกไม้)
+2024-05-02 00:38:58,441 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:38:58,444 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ที่ดิน
+2024-05-02 00:38:58,444 - ghb_logger - DEBUG - Province : เพชรบุรี
+2024-05-02 00:38:58,445 - ghb_logger - DEBUG - District : อำเภอ/เขต ท่ายาง
+2024-05-02 00:38:58,445 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง เขากระปุก
+2024-05-02 00:38:58,445 - ghb_logger - DEBUG - Address : ตำบล/แขวง เขากระปุก อำเภอ/เขต ท่ายาง เพชรบุรี
+2024-05-02 00:38:58,465 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201434
+2024-05-02 00:39:02,967 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426110817513893
+2024-05-02 00:39:02,967 - ghb_logger - DEBUG - Name : ขายที่ดิน (บ้านไร่แลนด์ 11)
+2024-05-02 00:39:02,967 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:39:02,970 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ที่ดิน
+2024-05-02 00:39:02,971 - ghb_logger - DEBUG - Province : ประจวบคีรีขันธ์
+2024-05-02 00:39:02,971 - ghb_logger - DEBUG - District : อำเภอ/เขต หัวหิน
+2024-05-02 00:39:02,971 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หินเหล็กไฟ
+2024-05-02 00:39:02,971 - ghb_logger - DEBUG - Address : ตำบล/แขวง หินเหล็กไฟ อำเภอ/เขต หัวหิน ประจวบคีรีขันธ์
+2024-05-02 00:39:02,983 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201427
+2024-05-02 00:39:05,766 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426997013644302
+2024-05-02 00:39:05,767 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (คำหมั่น)
+2024-05-02 00:39:05,767 - ghb_logger - DEBUG - Price : 750,000 บาท
+2024-05-02 00:39:05,770 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:39:05,770 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:05,771 - ghb_logger - DEBUG - District : อำเภอ/เขต โชคชัย
+2024-05-02 00:39:05,771 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ด่านเกวียน
+2024-05-02 00:39:05,771 - ghb_logger - DEBUG - Address : ตำบล/แขวง ด่านเกวียน อำเภอ/เขต โชคชัย นครราชสีมา
+2024-05-02 00:39:05,790 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201432
+2024-05-02 00:39:10,196 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426395853746692
+2024-05-02 00:39:10,196 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว
+2024-05-02 00:39:10,197 - ghb_logger - DEBUG - Price : 1,050,000 บาท
+2024-05-02 00:39:10,199 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:10,200 - ghb_logger - DEBUG - Province : ระนอง
+2024-05-02 00:39:10,200 - ghb_logger - DEBUG - District : อำเภอ/เขต สุขสำราญ
+2024-05-02 00:39:10,200 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง นาคา
+2024-05-02 00:39:10,200 - ghb_logger - DEBUG - Address : ตำบล/แขวง นาคา อำเภอ/เขต สุขสำราญ ระนอง
+2024-05-02 00:39:10,213 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201425
+2024-05-02 00:39:15,427 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995632438240
+2024-05-02 00:39:15,427 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บุญเลิศรุ่งแลนด์)
+2024-05-02 00:39:15,427 - ghb_logger - DEBUG - Price : 1,150,000 บาท
+2024-05-02 00:39:15,429 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:15,430 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:15,430 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:15,430 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง พุดซา
+2024-05-02 00:39:15,430 - ghb_logger - DEBUG - Address : ตำบล/แขวง พุดซา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:15,444 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201433
+2024-05-02 00:39:18,327 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399289964121
+2024-05-02 00:39:18,327 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (วราวรรณ)
+2024-05-02 00:39:18,327 - ghb_logger - DEBUG - Price : 1,350,000 บาท
+2024-05-02 00:39:18,329 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:18,330 - ghb_logger - DEBUG - Province : ประจวบคีรีขันธ์
+2024-05-02 00:39:18,330 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองประจวบคีรีขันธ์
+2024-05-02 00:39:18,330 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง เกาะหลัก
+2024-05-02 00:39:18,331 - ghb_logger - DEBUG - Address : ตำบล/แขวง เกาะหลัก อำเภอ/เขต เมืองประจวบคีรีขันธ์ ประจวบคีรีขันธ์
+2024-05-02 00:39:18,349 - ghb_logger - DEBUG - Lat : 11.8301
+2024-05-02 00:39:18,350 - ghb_logger - DEBUG - Longitude : 99.7861
+2024-05-02 00:39:18,350 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201428
+2024-05-02 00:39:21,031 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426998055728724
+2024-05-02 00:39:21,033 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (กรรณ์ษะณา)
+2024-05-02 00:39:21,033 - ghb_logger - DEBUG - Price : 1,400,000 บาท
+2024-05-02 00:39:21,036 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:21,036 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:21,037 - ghb_logger - DEBUG - District : อำเภอ/เขต โนนสูง
+2024-05-02 00:39:21,037 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ใหม่
+2024-05-02 00:39:21,037 - ghb_logger - DEBUG - Address : ตำบล/แขวง ใหม่ อำเภอ/เขต โนนสูง นครราชสีมา
+2024-05-02 00:39:21,056 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201429
+2024-05-02 00:39:23,771 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426999773919494
+2024-05-02 00:39:23,771 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (โคกแฝก)
+2024-05-02 00:39:23,771 - ghb_logger - DEBUG - Price : 1,460,000 บาท
+2024-05-02 00:39:23,773 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:23,773 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:23,774 - ghb_logger - DEBUG - District : อำเภอ/เขต ขามทะเลสอ
+2024-05-02 00:39:23,774 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ขามทะเลสอ
+2024-05-02 00:39:23,774 - ghb_logger - DEBUG - Address : ตำบล/แขวง ขามทะเลสอ อำเภอ/เขต ขามทะเลสอ นครราชสีมา
+2024-05-02 00:39:23,788 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201424
+2024-05-02 00:39:26,733 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995344472250
+2024-05-02 00:39:26,733 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านปูน)
+2024-05-02 00:39:26,733 - ghb_logger - DEBUG - Price : 2,050,000 บาท
+2024-05-02 00:39:26,736 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:26,736 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:26,737 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:26,737 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง จอหอ
+2024-05-02 00:39:26,738 - ghb_logger - DEBUG - Address : ตำบล/แขวง จอหอ อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:26,754 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201426
+2024-05-02 00:39:29,491 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995777790206
+2024-05-02 00:39:29,492 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (เมืองใหม่โคกกรวด)
+2024-05-02 00:39:29,492 - ghb_logger - DEBUG - Price : 2,155,000 บาท
+2024-05-02 00:39:29,494 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:29,494 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:29,494 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:29,495 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง โคกกรวด
+2024-05-02 00:39:29,495 - ghb_logger - DEBUG - Address : ตำบล/แขวง โคกกรวด อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:29,509 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201430
+2024-05-02 00:39:33,874 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426395942192314
+2024-05-02 00:39:33,874 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว
+2024-05-02 00:39:33,874 - ghb_logger - DEBUG - Price : 2,445,000 บาท
+2024-05-02 00:39:33,877 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:33,877 - ghb_logger - DEBUG - Province : ระนอง
+2024-05-02 00:39:33,877 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองระนอง
+2024-05-02 00:39:33,877 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บางนอน
+2024-05-02 00:39:33,878 - ghb_logger - DEBUG - Address : ตำบล/แขวง บางนอน อำเภอ/เขต เมืองระนอง ระนอง
+2024-05-02 00:39:33,891 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201435
+2024-05-02 00:39:36,581 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426401289578235
+2024-05-02 00:39:36,583 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:39:36,583 - ghb_logger - DEBUG - Price : 2,480,000 บาท
+2024-05-02 00:39:36,586 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:39:36,586 - ghb_logger - DEBUG - Province : ประจวบคีรีขันธ์
+2024-05-02 00:39:36,586 - ghb_logger - DEBUG - District : อำเภอ/เขต หัวหิน
+2024-05-02 00:39:36,587 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หัวหิน
+2024-05-02 00:39:36,587 - ghb_logger - DEBUG - Address : ตำบล/แขวง หัวหิน อำเภอ/เขต หัวหิน ประจวบคีรีขันธ์
+2024-05-02 00:39:36,608 - ghb_logger - DEBUG - Lat : 12.5568
+2024-05-02 00:39:36,609 - ghb_logger - DEBUG - Longitude : 99.9563
+2024-05-02 00:39:40,096 - ghb_logger - INFO - Page : 2
+2024-05-02 00:39:40,109 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201423
+2024-05-02 00:39:45,374 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426994841497154
+2024-05-02 00:39:45,375 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (อยู่สบาย 12)
+2024-05-02 00:39:45,375 - ghb_logger - DEBUG - Price : 2,660,000 บาท
+2024-05-02 00:39:45,377 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:45,377 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:45,378 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:45,378 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองบัวศาลา
+2024-05-02 00:39:45,378 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองบัวศาลา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:45,392 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201386
+2024-05-02 00:39:48,871 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/img/NoImage.png
+2024-05-02 00:39:48,871 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว
+2024-05-02 00:39:48,871 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:39:48,874 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:48,874 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:39:48,875 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:39:48,875 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง นาเสียว
+2024-05-02 00:39:48,875 - ghb_logger - DEBUG - Address : ตำบล/แขวง นาเสียว อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:39:48,889 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201389
+2024-05-02 00:39:52,680 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400089779173
+2024-05-02 00:39:52,681 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว
+2024-05-02 00:39:52,681 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:39:52,684 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:39:52,684 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:39:52,684 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:39:52,684 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:39:52,685 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:39:52,700 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201414
+2024-05-02 00:39:55,209 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996582544555
+2024-05-02 00:39:55,209 - ghb_logger - DEBUG - Name : ขายอาคารพาณิชย์
+2024-05-02 00:39:55,209 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:39:55,211 - ghb_logger - DEBUG - Type : ประเภททรัพย์ อาคารพาณิชย์
+2024-05-02 00:39:55,213 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:55,213 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:55,213 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง จอหอ
+2024-05-02 00:39:55,213 - ghb_logger - DEBUG - Address : ตำบล/แขวง จอหอ อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:55,225 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201416
+2024-05-02 00:39:57,881 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996724693525
+2024-05-02 00:39:57,881 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:39:57,881 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:39:57,884 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:39:57,884 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:39:57,885 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:39:57,885 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หัวทะเล
+2024-05-02 00:39:57,885 - ghb_logger - DEBUG - Address : ตำบล/แขวง หัวทะเล อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:39:57,898 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201366
+2024-05-02 00:40:00,498 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035329187648
+2024-05-02 00:40:00,498 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านโนนม่วง)
+2024-05-02 00:40:00,499 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:40:00,500 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:00,500 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:00,501 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:40:00,501 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง โพนทอง
+2024-05-02 00:40:00,501 - ghb_logger - DEBUG - Address : ตำบล/แขวง โพนทอง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:40:00,514 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201394
+2024-05-02 00:40:03,545 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426398292682387
+2024-05-02 00:40:03,545 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านกลาง)
+2024-05-02 00:40:03,545 - ghb_logger - DEBUG - Price : ราคาติดต่อธนาคาร
+2024-05-02 00:40:03,547 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:03,548 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:03,548 - ghb_logger - DEBUG - District : อำเภอ/เขต เกษตรสมบูรณ์
+2024-05-02 00:40:03,548 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง กุดเลาะ
+2024-05-02 00:40:03,548 - ghb_logger - DEBUG - Address : ตำบล/แขวง กุดเลาะ อำเภอ/เขต เกษตรสมบูรณ์ ชัยภูมิ
+2024-05-02 00:40:03,560 - ghb_logger - DEBUG - Lat : 16.3741
+2024-05-02 00:40:03,561 - ghb_logger - DEBUG - Longitude : 101.802
+2024-05-02 00:40:03,561 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201418
+2024-05-02 00:40:06,464 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426997154689813
+2024-05-02 00:40:06,465 - ghb_logger - DEBUG - Name : ขายที่ดิน (หัวแหวนคันทรี่วิลล์)
+2024-05-02 00:40:06,465 - ghb_logger - DEBUG - Price : 200,000 บาท
+2024-05-02 00:40:06,468 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ที่ดิน
+2024-05-02 00:40:06,468 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:06,468 - ghb_logger - DEBUG - District : อำเภอ/เขต โชคชัย
+2024-05-02 00:40:06,469 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ทุ่งอรุณ
+2024-05-02 00:40:06,469 - ghb_logger - DEBUG - Address : ตำบล/แขวง ทุ่งอรุณ อำเภอ/เขต โชคชัย นครราชสีมา
+2024-05-02 00:40:06,486 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201419
+2024-05-02 00:40:09,169 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426997225122138
+2024-05-02 00:40:09,169 - ghb_logger - DEBUG - Name : ขายที่ดิน (หัวแหวนคันทรีวิลล์)
+2024-05-02 00:40:09,169 - ghb_logger - DEBUG - Price : 200,000 บาท
+2024-05-02 00:40:09,171 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ที่ดิน
+2024-05-02 00:40:09,171 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:09,173 - ghb_logger - DEBUG - District : อำเภอ/เขต โชคชัย
+2024-05-02 00:40:09,173 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ทุ่งอรุณ
+2024-05-02 00:40:09,173 - ghb_logger - DEBUG - Address : ตำบล/แขวง ทุ่งอรุณ อำเภอ/เขต โชคชัย นครราชสีมา
+2024-05-02 00:40:09,186 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201376
+2024-05-02 00:40:11,867 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399389576981
+2024-05-02 00:40:11,867 - ghb_logger - DEBUG - Name : ขายที่ดิน
+2024-05-02 00:40:11,867 - ghb_logger - DEBUG - Price : 200,000 บาท
+2024-05-02 00:40:11,869 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ที่ดิน
+2024-05-02 00:40:11,870 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:11,870 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:40:11,870 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:40:11,870 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:40:11,885 - ghb_logger - DEBUG - Lat : 15.6311
+2024-05-02 00:40:11,885 - ghb_logger - DEBUG - Longitude : 102.08
+2024-05-02 00:40:11,886 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201390
+2024-05-02 00:40:15,420 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035685259932
+2024-05-02 00:40:15,420 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านโสก)
+2024-05-02 00:40:15,421 - ghb_logger - DEBUG - Price : 550,000 บาท
+2024-05-02 00:40:15,424 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:15,424 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:15,425 - ghb_logger - DEBUG - District : อำเภอ/เขต คอนสวรรค์
+2024-05-02 00:40:15,426 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านโสก
+2024-05-02 00:40:15,426 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านโสก อำเภอ/เขต คอนสวรรค์ ชัยภูมิ
+2024-05-02 00:40:15,447 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201391
+2024-05-02 00:40:18,029 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399492035709
+2024-05-02 00:40:18,029 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (ภูทอง)
+2024-05-02 00:40:18,029 - ghb_logger - DEBUG - Price : 560,000 บาท
+2024-05-02 00:40:18,032 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:18,032 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:18,032 - ghb_logger - DEBUG - District : อำเภอ/เขต คอนสวรรค์
+2024-05-02 00:40:18,032 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ช่องสามหมอ
+2024-05-02 00:40:18,032 - ghb_logger - DEBUG - Address : ตำบล/แขวง ช่องสามหมอ อำเภอ/เขต คอนสวรรค์ ชัยภูมิ
+2024-05-02 00:40:18,048 - ghb_logger - DEBUG - Lat : 16.0356
+2024-05-02 00:40:18,049 - ghb_logger - DEBUG - Longitude : 102.29
+2024-05-02 00:40:18,049 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201397
+2024-05-02 00:40:20,618 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426036036842714
+2024-05-02 00:40:20,618 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านลาด)
+2024-05-02 00:40:20,618 - ghb_logger - DEBUG - Price : 590,000 บาท
+2024-05-02 00:40:20,621 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:20,621 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:20,621 - ghb_logger - DEBUG - District : อำเภอ/เขต ภูเขียว
+2024-05-02 00:40:20,622 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านแก้ง
+2024-05-02 00:40:20,622 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านแก้ง อำเภอ/เขต ภูเขียว ชัยภูมิ
+2024-05-02 00:40:20,639 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201393
+2024-05-02 00:40:23,275 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399189896162
+2024-05-02 00:40:23,275 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านดอนหัน)
+2024-05-02 00:40:23,275 - ghb_logger - DEBUG - Price : 615,000 บาท
+2024-05-02 00:40:23,278 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:23,278 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:23,279 - ghb_logger - DEBUG - District : อำเภอ/เขต เกษตรสมบูรณ์
+2024-05-02 00:40:23,279 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองโพนงาม
+2024-05-02 00:40:23,279 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองโพนงาม อำเภอ/เขต เกษตรสมบูรณ์ ชัยภูมิ
+2024-05-02 00:40:23,294 - ghb_logger - DEBUG - Lat : 16.4147
+2024-05-02 00:40:23,294 - ghb_logger - DEBUG - Longitude : 101.947
+2024-05-02 00:40:23,295 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201404
+2024-05-02 00:40:25,904 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995852078566
+2024-05-02 00:40:25,905 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (พาราไดว์วิตี้2)
+2024-05-02 00:40:25,905 - ghb_logger - DEBUG - Price : 650,000 บาท
+2024-05-02 00:40:25,907 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:40:25,907 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:25,908 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:40:25,908 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หัวทะเล
+2024-05-02 00:40:25,908 - ghb_logger - DEBUG - Address : ตำบล/แขวง หัวทะเล อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:40:25,921 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201399
+2024-05-02 00:40:28,448 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426036247854942
+2024-05-02 00:40:28,448 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (หนองไผ่ล้อม)
+2024-05-02 00:40:28,448 - ghb_logger - DEBUG - Price : 650,000 บาท
+2024-05-02 00:40:28,451 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:28,451 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:28,451 - ghb_logger - DEBUG - District : อำเภอ/เขต แก้งคร้อ
+2024-05-02 00:40:28,451 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง นาหนองทุ่ม
+2024-05-02 00:40:28,452 - ghb_logger - DEBUG - Address : ตำบล/แขวง นาหนองทุ่ม อำเภอ/เขต แก้งคร้อ ชัยภูมิ
+2024-05-02 00:40:28,466 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201392
+2024-05-02 00:40:31,026 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399589913591
+2024-05-02 00:40:31,027 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านโสกหาด)
+2024-05-02 00:40:31,027 - ghb_logger - DEBUG - Price : 680,000 บาท
+2024-05-02 00:40:31,029 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:31,030 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:31,030 - ghb_logger - DEBUG - District : อำเภอ/เขต คอนสวรรค์
+2024-05-02 00:40:31,030 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ช่องสามหมอ
+2024-05-02 00:40:31,030 - ghb_logger - DEBUG - Address : ตำบล/แขวง ช่องสามหมอ อำเภอ/เขต คอนสวรรค์ ชัยภูมิ
+2024-05-02 00:40:31,046 - ghb_logger - DEBUG - Lat : 16.0235
+2024-05-02 00:40:31,046 - ghb_logger - DEBUG - Longitude : 102.281
+2024-05-02 00:40:31,047 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201398
+2024-05-02 00:40:33,869 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426036175234463
+2024-05-02 00:40:33,869 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (ศรีพัฒนา)
+2024-05-02 00:40:33,870 - ghb_logger - DEBUG - Price : 680,000 บาท
+2024-05-02 00:40:33,871 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:33,872 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:33,872 - ghb_logger - DEBUG - District : อำเภอ/เขต แก้งคร้อ
+2024-05-02 00:40:33,872 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ช่องสามหมอ
+2024-05-02 00:40:33,873 - ghb_logger - DEBUG - Address : ตำบล/แขวง ช่องสามหมอ อำเภอ/เขต แก้งคร้อ ชัยภูมิ
+2024-05-02 00:40:33,885 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201373
+2024-05-02 00:40:36,703 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400390243413
+2024-05-02 00:40:36,704 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (หนองแวงธานี)
+2024-05-02 00:40:36,704 - ghb_logger - DEBUG - Price : 800,000 บาท
+2024-05-02 00:40:36,706 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:40:36,707 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:36,707 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:40:36,707 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:40:36,707 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:40:36,724 - ghb_logger - DEBUG - Lat : 15.8567
+2024-05-02 00:40:36,725 - ghb_logger - DEBUG - Longitude : 102.073
+2024-05-02 00:40:36,725 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201422
+2024-05-02 00:40:39,367 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426999561798693
+2024-05-02 00:40:39,368 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (ไฮเกรทซิตี้)
+2024-05-02 00:40:39,368 - ghb_logger - DEBUG - Price : 825,000 บาท
+2024-05-02 00:40:39,371 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:40:39,371 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:39,371 - ghb_logger - DEBUG - District : อำเภอ/เขต สูงเนิน
+2024-05-02 00:40:39,371 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง สูงเนิน
+2024-05-02 00:40:39,371 - ghb_logger - DEBUG - Address : ตำบล/แขวง สูงเนิน อำเภอ/เขต สูงเนิน นครราชสีมา
+2024-05-02 00:40:45,475 - ghb_logger - INFO - Page : 3
+2024-05-02 00:40:45,489 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201387
+2024-05-02 00:40:48,214 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400201294472
+2024-05-02 00:40:48,214 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (บ้านเอื้ออาทรโนนสมอ)
+2024-05-02 00:40:48,214 - ghb_logger - DEBUG - Price : 860,000 บาท
+2024-05-02 00:40:48,217 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:40:48,217 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:48,217 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:40:48,217 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:40:48,217 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:40:48,230 - ghb_logger - DEBUG - Lat : 15.8221
+2024-05-02 00:40:48,231 - ghb_logger - DEBUG - Longitude : 102.03
+2024-05-02 00:40:48,231 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201368
+2024-05-02 00:40:51,204 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426396252513863
+2024-05-02 00:40:51,205 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านเล่า)
+2024-05-02 00:40:51,205 - ghb_logger - DEBUG - Price : 870,000 บาท
+2024-05-02 00:40:51,208 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:51,209 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:40:51,209 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:40:51,209 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านเล่า
+2024-05-02 00:40:51,210 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านเล่า อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:40:51,231 - ghb_logger - DEBUG - Lat : 15.8568
+2024-05-02 00:40:51,231 - ghb_logger - DEBUG - Longitude : 102.066
+2024-05-02 00:40:51,231 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201405
+2024-05-02 00:40:54,184 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995923477706
+2024-05-02 00:40:54,184 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (โคราชบุรี)
+2024-05-02 00:40:54,184 - ghb_logger - DEBUG - Price : 900,000 บาท
+2024-05-02 00:40:54,187 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:40:54,187 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:54,187 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:40:54,187 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง สุรนารี
+2024-05-02 00:40:54,188 - ghb_logger - DEBUG - Address : ตำบล/แขวง สุรนารี อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:40:54,202 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201421
+2024-05-02 00:40:56,784 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426999489024818
+2024-05-02 00:40:56,785 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (เอื้ออาทรนครราชสีมา(สูงเนิน))
+2024-05-02 00:40:56,785 - ghb_logger - DEBUG - Price : 935,000 บาท
+2024-05-02 00:40:56,788 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:40:56,788 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:40:56,788 - ghb_logger - DEBUG - District : อำเภอ/เขต สูงเนิน
+2024-05-02 00:40:56,789 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง สูงเนิน
+2024-05-02 00:40:56,789 - ghb_logger - DEBUG - Address : ตำบล/แขวง สูงเนิน อำเภอ/เขต สูงเนิน นครราชสีมา
+2024-05-02 00:40:56,804 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201407
+2024-05-02 00:41:00,388 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996066615858
+2024-05-02 00:41:00,389 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์
+2024-05-02 00:41:00,389 - ghb_logger - DEBUG - Price : 950,000 บาท
+2024-05-02 00:41:00,391 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:41:00,391 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:00,392 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:00,392 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองบัวศาลา
+2024-05-02 00:41:00,392 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองบัวศาลา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:00,405 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201369
+2024-05-02 00:41:03,078 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035470928541
+2024-05-02 00:41:03,078 - ghb_logger - DEBUG - Name : ขายทาวน์เฮ้าส์ (ลาดใหญ่)
+2024-05-02 00:41:03,078 - ghb_logger - DEBUG - Price : 950,000 บาท
+2024-05-02 00:41:03,080 - ghb_logger - DEBUG - Type : ประเภททรัพย์ ทาวน์เฮ้าส์
+2024-05-02 00:41:03,080 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:03,081 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:03,081 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ลาดใหญ่
+2024-05-02 00:41:03,081 - ghb_logger - DEBUG - Address : ตำบล/แขวง ลาดใหญ่ อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:03,096 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201381
+2024-05-02 00:41:05,960 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400592299525
+2024-05-02 00:41:05,960 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (นาฝาย)
+2024-05-02 00:41:05,960 - ghb_logger - DEBUG - Price : 975,000 บาท
+2024-05-02 00:41:05,962 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:05,962 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:05,963 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:05,963 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง นาฝาย
+2024-05-02 00:41:05,963 - ghb_logger - DEBUG - Address : ตำบล/แขวง นาฝาย อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:05,977 - ghb_logger - DEBUG - Lat : 15.9211
+2024-05-02 00:41:05,977 - ghb_logger - DEBUG - Longitude : 102.024
+2024-05-02 00:41:05,977 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201406
+2024-05-02 00:41:08,605 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426995996142145
+2024-05-02 00:41:08,605 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (เอื้ออาทรบ้านเกาะ)
+2024-05-02 00:41:08,605 - ghb_logger - DEBUG - Price : 1,050,000 บาท
+2024-05-02 00:41:08,608 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:08,608 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:08,608 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:08,608 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านเกาะ
+2024-05-02 00:41:08,609 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านเกาะ อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:08,626 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201400
+2024-05-02 00:41:11,231 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426399689796603
+2024-05-02 00:41:11,232 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านแวงน้อย)
+2024-05-02 00:41:11,232 - ghb_logger - DEBUG - Price : 1,090,000 บาท
+2024-05-02 00:41:11,234 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:11,234 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:11,235 - ghb_logger - DEBUG - District : อำเภอ/เขต แก้งคร้อ
+2024-05-02 00:41:11,235 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง โคกกุง
+2024-05-02 00:41:11,235 - ghb_logger - DEBUG - Address : ตำบล/แขวง โคกกุง อำเภอ/เขต แก้งคร้อ ชัยภูมิ
+2024-05-02 00:41:11,249 - ghb_logger - DEBUG - Lat : 16.1106
+2024-05-02 00:41:11,249 - ghb_logger - DEBUG - Longitude : 102.163
+2024-05-02 00:41:11,250 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201395
+2024-05-02 00:41:15,531 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035759454713
+2024-05-02 00:41:15,531 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านหนองหอย)
+2024-05-02 00:41:15,531 - ghb_logger - DEBUG - Price : 1,100,000 บาท
+2024-05-02 00:41:15,534 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:15,535 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:15,535 - ghb_logger - DEBUG - District : อำเภอ/เขต หนองบัวแดง
+2024-05-02 00:41:15,535 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านเจียง
+2024-05-02 00:41:15,535 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านเจียง อำเภอ/เขต หนองบัวแดง ชัยภูมิ
+2024-05-02 00:41:15,546 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201377
+2024-05-02 00:41:18,277 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400690838752
+2024-05-02 00:41:18,277 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านเมืองน้อยใต้)
+2024-05-02 00:41:18,277 - ghb_logger - DEBUG - Price : 1,180,000 บาท
+2024-05-02 00:41:18,280 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:18,281 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:18,281 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:18,281 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:41:18,282 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:18,303 - ghb_logger - DEBUG - Lat : 15.8261
+2024-05-02 00:41:18,304 - ghb_logger - DEBUG - Longitude : 102.028
+2024-05-02 00:41:18,304 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201409
+2024-05-02 00:41:20,859 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996213442242
+2024-05-02 00:41:20,859 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว
+2024-05-02 00:41:20,859 - ghb_logger - DEBUG - Price : 1,200,000 บาท
+2024-05-02 00:41:20,862 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:20,863 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:20,863 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:20,863 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองบัวศาลา
+2024-05-02 00:41:20,863 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองบัวศาลา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:20,877 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201371
+2024-05-02 00:41:23,428 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035614658936
+2024-05-02 00:41:23,428 - ghb_logger - DEBUG - Name : ขายบ้านแฝด (คลองเรียง)
+2024-05-02 00:41:23,429 - ghb_logger - DEBUG - Price : 1,205,000 บาท
+2024-05-02 00:41:23,433 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านแฝด
+2024-05-02 00:41:23,433 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:23,433 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:23,433 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ในเมือง
+2024-05-02 00:41:23,433 - ghb_logger - DEBUG - Address : ตำบล/แขวง ในเมือง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:23,450 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201384
+2024-05-02 00:41:26,174 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426400890116903
+2024-05-02 00:41:26,174 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านชีลอง)
+2024-05-02 00:41:26,175 - ghb_logger - DEBUG - Price : 1,220,000 บาท
+2024-05-02 00:41:26,177 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:26,177 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:26,177 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:26,178 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ชีลอง
+2024-05-02 00:41:26,178 - ghb_logger - DEBUG - Address : ตำบล/แขวง ชีลอง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:26,197 - ghb_logger - DEBUG - Lat : 15.7645
+2024-05-02 00:41:26,197 - ghb_logger - DEBUG - Longitude : 101.995
+2024-05-02 00:41:26,198 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201410
+2024-05-02 00:41:28,814 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996287639206
+2024-05-02 00:41:28,814 - ghb_logger - DEBUG - Name : ขายบ้านแฝด (เคียงเขต 7)
+2024-05-02 00:41:28,814 - ghb_logger - DEBUG - Price : 1,250,000 บาท
+2024-05-02 00:41:28,817 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านแฝด
+2024-05-02 00:41:28,817 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:28,818 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:28,818 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง หนองบัวศาลา
+2024-05-02 00:41:28,819 - ghb_logger - DEBUG - Address : ตำบล/แขวง หนองบัวศาลา อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:28,843 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201415
+2024-05-02 00:41:31,533 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996651848023
+2024-05-02 00:41:31,534 - ghb_logger - DEBUG - Name : ขายบ้านแฝด
+2024-05-02 00:41:31,534 - ghb_logger - DEBUG - Price : 1,250,000 บาท
+2024-05-02 00:41:31,538 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านแฝด
+2024-05-02 00:41:31,539 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:31,539 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:31,539 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง โพธิ์กลาง
+2024-05-02 00:41:31,540 - ghb_logger - DEBUG - Address : ตำบล/แขวง โพธิ์กลาง อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:31,560 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201412
+2024-05-02 00:41:34,242 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426996432728245
+2024-05-02 00:41:34,243 - ghb_logger - DEBUG - Name : ขายอาคารพาณิชย์
+2024-05-02 00:41:34,243 - ghb_logger - DEBUG - Price : 1,350,000 บาท
+2024-05-02 00:41:34,246 - ghb_logger - DEBUG - Type : ประเภททรัพย์ อาคารพาณิชย์
+2024-05-02 00:41:34,246 - ghb_logger - DEBUG - Province : นครราชสีมา
+2024-05-02 00:41:34,246 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองนครราชสีมา
+2024-05-02 00:41:34,247 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านโพธิ์
+2024-05-02 00:41:34,247 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านโพธิ์ อำเภอ/เขต เมืองนครราชสีมา นครราชสีมา
+2024-05-02 00:41:34,265 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201365
+2024-05-02 00:41:36,864 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426973413951560
+2024-05-02 00:41:36,864 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (โสกตลับ)
+2024-05-02 00:41:36,864 - ghb_logger - DEBUG - Price : 1,375,000 บาท
+2024-05-02 00:41:36,869 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:36,869 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:36,870 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:36,870 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง โคกสูง
+2024-05-02 00:41:36,870 - ghb_logger - DEBUG - Address : ตำบล/แขวง โคกสูง อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:36,886 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201401
+2024-05-02 00:41:39,480 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426036317931184
+2024-05-02 00:41:39,481 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (บ้านโนนหัวนา)
+2024-05-02 00:41:39,481 - ghb_logger - DEBUG - Price : 1,375,000 บาท
+2024-05-02 00:41:39,483 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:39,483 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:39,483 - ghb_logger - DEBUG - District : อำเภอ/เขต คอนสาร
+2024-05-02 00:41:39,484 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง ทุ่งนาเลา
+2024-05-02 00:41:39,484 - ghb_logger - DEBUG - Address : ตำบล/แขวง ทุ่งนาเลา อำเภอ/เขต คอนสาร ชัยภูมิ
+2024-05-02 00:41:39,503 - ghb_logger - DEBUG - Url : https://www.ghbhomecenter.com/property-1201370
+2024-05-02 00:41:42,031 - ghb_logger - DEBUG - Img : https://www.ghbhomecenter.com/v3/property/api/Media/240426035540437454
+2024-05-02 00:41:42,031 - ghb_logger - DEBUG - Name : ขายบ้านเดี่ยว (สินวราพงษ์)
+2024-05-02 00:41:42,031 - ghb_logger - DEBUG - Price : 1,400,000 บาท
+2024-05-02 00:41:42,036 - ghb_logger - DEBUG - Type : ประเภททรัพย์ บ้านเดี่ยว
+2024-05-02 00:41:42,037 - ghb_logger - DEBUG - Province : ชัยภูมิ
+2024-05-02 00:41:42,037 - ghb_logger - DEBUG - District : อำเภอ/เขต เมืองชัยภูมิ
+2024-05-02 00:41:42,038 - ghb_logger - DEBUG - Sub District : ตำบล/แขวง บ้านเล่า
+2024-05-02 00:41:42,038 - ghb_logger - DEBUG - Address : ตำบล/แขวง บ้านเล่า อำเภอ/เขต เมืองชัยภูมิ ชัยภูมิ
+2024-05-02 00:41:42,308 - ghb_logger - INFO - Done Scraping without Error

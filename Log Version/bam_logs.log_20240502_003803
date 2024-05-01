@@ -1,0 +1,309 @@
+2024-05-02 00:41:59,643 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/431
+2024-05-02 00:41:59,692 - bam_logger - DEBUG - Name ที่ดินเปล่า ตำบลบ้านแป้น
+2024-05-02 00:41:59,855 - bam_logger - DEBUG - Price 3,100,000 บาท
+2024-05-02 00:41:59,883 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/2f884717-IMG_5608.JPG
+2024-05-02 00:42:00,319 - bam_logger - DEBUG - Area 11 ไร่ 2 งาน 70.20 ตร.ว.
+2024-05-02 00:42:00,452 - bam_logger - DEBUG - Location ถนน ท่าจักร-แม่ทา ตำบล บ้านแป้น
+2024-05-02 00:42:00,452 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:42:00,452 - bam_logger - DEBUG - Sub District : เมืองลำพูน
+2024-05-02 00:42:00,471 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:42:00,518 - bam_logger - DEBUG - Lat 18.512214
+2024-05-02 00:42:00,519 - bam_logger - DEBUG - Long 98.960204
+2024-05-02 00:42:03,863 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/645
+2024-05-02 00:42:03,876 - bam_logger - DEBUG - Name * บ้านเดี่ยว
+2024-05-02 00:42:03,890 - bam_logger - DEBUG - Price 2,100,000 บาท
+2024-05-02 00:42:03,904 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20150903140114.jpg
+2024-05-02 00:42:04,528 - bam_logger - DEBUG - Area 54.00 ตร.ว.
+2024-05-02 00:42:04,820 - bam_logger - DEBUG - Location โครงการฯ ตั้งอยู่บนกม.5 ถนนเชียงใหม่-เชียงราย ตำบล สันนาเม็ง
+2024-05-02 00:42:04,820 - bam_logger - DEBUG - Province เชียงใหม่
+2024-05-02 00:42:04,820 - bam_logger - DEBUG - Sub District : สันทราย
+2024-05-02 00:42:04,842 - bam_logger - DEBUG - Proptype : บ้านเดี่ยว
+2024-05-02 00:42:04,901 - bam_logger - DEBUG - Lat 18.826842
+2024-05-02 00:42:04,901 - bam_logger - DEBUG - Long 99.054775
+2024-05-02 00:42:08,055 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1159
+2024-05-02 00:42:08,072 - bam_logger - DEBUG - Name ทาวน์เฮาส์ 2 ชั้น
+2024-05-02 00:42:08,091 - bam_logger - DEBUG - Price 480,000 บาท
+2024-05-02 00:42:08,109 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/aee7c213-IMG_8147.JPG
+2024-05-02 00:42:08,569 - bam_logger - DEBUG - Area 20.00 ตร.ว.
+2024-05-02 00:42:08,797 - bam_logger - DEBUG - Location เลขที่ 224/28 โครงการ สุดฤทัยในฝัน ถนนสายมโนรมย์-อุทัยธานี ตำบล คุ้งสำเภา
+2024-05-02 00:42:08,797 - bam_logger - DEBUG - Province ชัยนาท
+2024-05-02 00:42:08,798 - bam_logger - DEBUG - Sub District : มโนรมย์
+2024-05-02 00:42:08,820 - bam_logger - DEBUG - Proptype : ทาวน์เฮ้าส์
+2024-05-02 00:42:08,879 - bam_logger - DEBUG - Lat 15.300846
+2024-05-02 00:42:08,879 - bam_logger - DEBUG - Long 100.093692
+2024-05-02 00:42:12,090 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1252
+2024-05-02 00:42:12,102 - bam_logger - DEBUG - Name มีทรัพย์เรซิเดนซ์ 2 ( เพชรเกษม 69 ) : คอนโดราคาพิเศษ
+2024-05-02 00:42:12,116 - bam_logger - DEBUG - Price 159,000 บาท
+2024-05-02 00:42:12,128 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_ddc48fa7a76ef2ed129aaee19341f77388ddd3ae.jpg
+2024-05-02 00:42:12,460 - bam_logger - DEBUG - Area 27.85 ตร.ม.
+2024-05-02 00:42:12,621 - bam_logger - DEBUG - Location เลขที่ 21/655 อาคารชุด มีทรัพย์เรซิเดนซ์ 2 ( อาคาร 2 )ชั้น 4 ซอย เพชรเกษม 69 (ซ.อินทาปัจ 9) แขวง หลักสอง
+2024-05-02 00:42:12,621 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:42:12,621 - bam_logger - DEBUG - Sub District : หนองแขม
+2024-05-02 00:42:12,635 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:12,745 - bam_logger - DEBUG - Lat 13.70026
+2024-05-02 00:42:12,745 - bam_logger - DEBUG - Long 100.38309
+2024-05-02 00:42:15,921 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1652
+2024-05-02 00:42:15,937 - bam_logger - DEBUG - Name สายไหมพูนสุข : คอนโดราคาพิเศษ
+2024-05-02 00:42:15,950 - bam_logger - DEBUG - Price 150,000 บาท
+2024-05-02 00:42:15,965 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_30772a1f0de3cb33d425de6e846a075867f0f63e.jpg
+2024-05-02 00:42:16,357 - bam_logger - DEBUG - Area 25.67 ตร.ม.
+2024-05-02 00:42:16,511 - bam_logger - DEBUG - Location ห้องชุดเลขที่ 10/3/45 ชั้น 5 อาคารบี โครงการอาคารชุดสายไหมพูนสุข ซอยพหลโยธิน 54/1 (ซอยคลองถนน) ห่างจากถนนพหลโยธิน ประมาณ 4.5 กม. แขวงคลองหกวาสายล่างฝั่งใต้
+2024-05-02 00:42:16,511 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:42:16,511 - bam_logger - DEBUG - Sub District : บางเขน
+2024-05-02 00:42:16,528 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:16,587 - bam_logger - DEBUG - Lat 13.928168
+2024-05-02 00:42:16,587 - bam_logger - DEBUG - Long 100.636640
+2024-05-02 00:42:19,811 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1653
+2024-05-02 00:42:19,836 - bam_logger - DEBUG - Name สายไหมพูนสุข : คอนโดราคาพิเศษ
+2024-05-02 00:42:19,857 - bam_logger - DEBUG - Price 150,000 บาท
+2024-05-02 00:42:19,878 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_d8aaac89ce163d999ad5ada9b262fabcfbb5dc9a.jpg
+2024-05-02 00:42:20,254 - bam_logger - DEBUG - Area 25.67 ตร.ม.
+2024-05-02 00:42:20,410 - bam_logger - DEBUG - Location ห้องชุดเลขที่ 10/3/48 ชั้น 5 อาคารบี โครงการอาคารชุดสายไหมพูนสุข ซอยพหลโยธิน 54/1 (ซอยคลองถนน) ห่างจากถนนพหลโยธิน ประมาณ 4.5 กม. แขวงคลองหกวาสายล่างฝั่งใต้
+2024-05-02 00:42:20,411 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:42:20,411 - bam_logger - DEBUG - Sub District : บางเขน
+2024-05-02 00:42:20,428 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:20,475 - bam_logger - DEBUG - Lat 13.928168
+2024-05-02 00:42:20,476 - bam_logger - DEBUG - Long 100.636640
+2024-05-02 00:42:24,001 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1654
+2024-05-02 00:42:24,155 - bam_logger - DEBUG - Name สายไหมพูนสุข : คอนโดราคาพิเศษ
+2024-05-02 00:42:24,265 - bam_logger - DEBUG - Price 150,000 บาท
+2024-05-02 00:42:24,332 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_ddc034803cf880f4ebb559180972b61941df602a.jpg
+2024-05-02 00:42:24,921 - bam_logger - DEBUG - Area 25.67 ตร.ม.
+2024-05-02 00:42:25,117 - bam_logger - DEBUG - Location ห้องชุดเลขที่ 10/3/50 ชั้น 5 อาคารบี โครงการอาคารชุดสายไหมพูนสุข ซอยพหลโยธิน 54/1 (ซอยคลองถนน) ห่างจากถนนพหลโยธิน ประมาณ 4.5 กม. แขวงคลองหกวาสายล่างฝั่งใต้
+2024-05-02 00:42:25,117 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:42:25,117 - bam_logger - DEBUG - Sub District : บางเขน
+2024-05-02 00:42:25,138 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:25,187 - bam_logger - DEBUG - Lat 13.928168
+2024-05-02 00:42:25,187 - bam_logger - DEBUG - Long 100.636640
+2024-05-02 00:42:28,414 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1708
+2024-05-02 00:42:28,447 - bam_logger - DEBUG - Name สายไหมพูนสุข : คอนโดราคาพิเศษ
+2024-05-02 00:42:28,474 - bam_logger - DEBUG - Price 150,000 บาท
+2024-05-02 00:42:28,504 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_0c5524249efa391b687fcbd456161e298fb87509.jpg
+2024-05-02 00:42:29,061 - bam_logger - DEBUG - Area 25.67 ตร.ม.
+2024-05-02 00:42:29,240 - bam_logger - DEBUG - Location ห้องชุดเลขที่ 10/3/46 ชั้น 5 อาคารบี โครงการอาคารชุดสายไหมพูนสุข ซอยพหลโยธิน 54/1 (ซอยคลองถนน) ห่างจากถนนพหลโยธิน ประมาณ 4.5 กม. แขวงคลองหกวาสายล่างฝั่งใต้
+2024-05-02 00:42:29,240 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:42:29,241 - bam_logger - DEBUG - Sub District : บางเขน
+2024-05-02 00:42:29,260 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:29,322 - bam_logger - DEBUG - Lat 13.928168
+2024-05-02 00:42:29,323 - bam_logger - DEBUG - Long 100.636640
+2024-05-02 00:42:32,508 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/1931
+2024-05-02 00:42:32,522 - bam_logger - DEBUG - Name เวียงชัย
+2024-05-02 00:42:32,537 - bam_logger - DEBUG - Price 2,100,000 บาท
+2024-05-02 00:42:32,551 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/ee84e6b1-400758394_371667065391530_6959365166438912075_n.jpg
+2024-05-02 00:42:32,961 - bam_logger - DEBUG - Area 4 ไร่ 3 งาน 62.00 ตร.ว.
+2024-05-02 00:42:33,101 - bam_logger - DEBUG - Location ถนน สายหัวดอย-สันสลีก
+2024-05-02 00:42:33,101 - bam_logger - DEBUG - Province เชียงราย
+2024-05-02 00:42:33,102 - bam_logger - DEBUG - Sub District : เวียงชัย
+2024-05-02 00:42:33,122 - bam_logger - DEBUG - Proptype : ที่ดินเกษตรกรรม
+2024-05-02 00:42:33,177 - bam_logger - DEBUG - Lat 19.8325841
+2024-05-02 00:42:33,177 - bam_logger - DEBUG - Long 100.0344579
+2024-05-02 00:42:36,364 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/2456
+2024-05-02 00:42:36,377 - bam_logger - DEBUG - Name ที่ดินเปล่า 1 แปลง
+2024-05-02 00:42:36,392 - bam_logger - DEBUG - Price 1,500,000 บาท
+2024-05-02 00:42:36,408 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20220215093715.jpg
+2024-05-02 00:42:36,787 - bam_logger - DEBUG - Area 12 ไร่
+2024-05-02 00:42:36,924 - bam_logger - DEBUG - Location ติดถนนสายกำแพงเพชร-พิจิตร เยื้องกับโรงเรียนบ้านทุ่งมหาชัย
+2024-05-02 00:42:36,924 - bam_logger - DEBUG - Province กำแพงเพชร
+2024-05-02 00:42:36,925 - bam_logger - DEBUG - Sub District : ไทรงาม
+2024-05-02 00:42:36,940 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:42:36,987 - bam_logger - DEBUG - Lat 16.487056
+2024-05-02 00:42:36,987 - bam_logger - DEBUG - Long 99.79669
+2024-05-02 00:42:40,125 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/4581
+2024-05-02 00:42:40,139 - bam_logger - DEBUG - Name อาคารพักอาศัย 4 ชั้น
+2024-05-02 00:42:40,153 - bam_logger - DEBUG - Price 14,500,000 บาท
+2024-05-02 00:42:40,165 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20160114114215.jpg
+2024-05-02 00:42:40,535 - bam_logger - DEBUG - Area 1 ไร่ 1 งาน 45.30 ตร.ว.
+2024-05-02 00:42:40,680 - bam_logger - DEBUG - Location เลขที่ 35/475, 35/476 ซอย เซย์ไฮ ถนน บ้านปากแรต 5 (ซอยบ้านผู้ใหญ่บุญ)
+2024-05-02 00:42:40,680 - bam_logger - DEBUG - Province ราชบุรี
+2024-05-02 00:42:40,680 - bam_logger - DEBUG - Sub District : บ้านโป่ง
+2024-05-02 00:42:40,695 - bam_logger - DEBUG - Proptype : อพาร์ทเม้นท์
+2024-05-02 00:42:40,751 - bam_logger - DEBUG - Lat 13.824257
+2024-05-02 00:42:40,751 - bam_logger - DEBUG - Long 99.870931
+2024-05-02 00:42:43,929 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/5242
+2024-05-02 00:42:43,947 - bam_logger - DEBUG - Name ห้องชุดพักอาศัยเลขที่ 140/672 ชั้น 5 โครงการน้ำเพชรคอนโดทาวน์ : คอนโดราคาพิเศษ
+2024-05-02 00:42:43,961 - bam_logger - DEBUG - Price 192,000 บาท
+2024-05-02 00:42:43,975 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20110811120049.jpg
+2024-05-02 00:42:44,351 - bam_logger - DEBUG - Area 30.00 ตร.ม.
+2024-05-02 00:42:44,491 - bam_logger - DEBUG - Location อาคารชุดน้ำเพชรคอนโดทาวน์ ซอยเรวดี 59 (ซอยเรวดี 59 ห่างจากถนนติวานนท์ ประมาณ 1.2 กม.) ถนนเรวดี ตำบล ตลาดขวัญ (บางแพรก)  
+2024-05-02 00:42:44,492 - bam_logger - DEBUG - Province นนทบุรี
+2024-05-02 00:42:44,492 - bam_logger - DEBUG - Sub District : เมืองนนทบุรี
+2024-05-02 00:42:44,507 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:44,559 - bam_logger - DEBUG - Lat 13.85320
+2024-05-02 00:42:44,559 - bam_logger - DEBUG - Long 100.50248
+2024-05-02 00:42:47,790 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/431
+2024-05-02 00:42:47,803 - bam_logger - DEBUG - Name ที่ดินเปล่า ตำบลบ้านแป้น
+2024-05-02 00:42:47,817 - bam_logger - DEBUG - Price 3,100,000 บาท
+2024-05-02 00:42:47,829 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/2f884717-IMG_5608.JPG
+2024-05-02 00:42:48,210 - bam_logger - DEBUG - Area 11 ไร่ 2 งาน 70.20 ตร.ว.
+2024-05-02 00:42:48,363 - bam_logger - DEBUG - Location ถนน ท่าจักร-แม่ทา ตำบล บ้านแป้น
+2024-05-02 00:42:48,363 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:42:48,364 - bam_logger - DEBUG - Sub District : เมืองลำพูน
+2024-05-02 00:42:48,382 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:42:48,429 - bam_logger - DEBUG - Lat 18.512214
+2024-05-02 00:42:48,429 - bam_logger - DEBUG - Long 98.960204
+2024-05-02 00:42:51,598 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/5615
+2024-05-02 00:42:51,610 - bam_logger - DEBUG - Name โรงงาน
+2024-05-02 00:42:51,624 - bam_logger - DEBUG - Price 6,900,000 บาท
+2024-05-02 00:42:51,637 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20211028155055.jpg
+2024-05-02 00:42:51,980 - bam_logger - DEBUG - Area 4 ไร่ 2 งาน 36.00 ตร.ว.
+2024-05-02 00:42:52,117 - bam_logger - DEBUG - Location ติดถนนรพช.ป่าเดื่อ-ร้องปู่หม่น
+2024-05-02 00:42:52,117 - bam_logger - DEBUG - Province เชียงใหม่
+2024-05-02 00:42:52,118 - bam_logger - DEBUG - Sub District : สารภี
+2024-05-02 00:42:52,135 - bam_logger - DEBUG - Proptype : โรงงาน
+2024-05-02 00:42:52,182 - bam_logger - DEBUG - Lat 18.66396
+2024-05-02 00:42:52,183 - bam_logger - DEBUG - Long 98.97532
+2024-05-02 00:42:55,342 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/6136
+2024-05-02 00:42:55,355 - bam_logger - DEBUG - Name ทาวน์เฮาส์ 2 ชั้น
+2024-05-02 00:42:55,368 - bam_logger - DEBUG - Price 480,000 บาท
+2024-05-02 00:42:55,381 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/3c46a135-IMG_8148.JPG
+2024-05-02 00:42:55,729 - bam_logger - DEBUG - Area 20.00 ตร.ว.
+2024-05-02 00:42:55,855 - bam_logger - DEBUG - Location เลขที่ 224/26 หมู่ 3 โครงการ สุดฤทัยในฝัน ถนนสาย มโนรมย์-อุทัยธานี ตำบล คุ้งสำเภา
+2024-05-02 00:42:55,855 - bam_logger - DEBUG - Province ชัยนาท
+2024-05-02 00:42:55,856 - bam_logger - DEBUG - Sub District : มโนรมย์
+2024-05-02 00:42:55,870 - bam_logger - DEBUG - Proptype : ทาวน์เฮ้าส์
+2024-05-02 00:42:55,920 - bam_logger - DEBUG - Lat 15.300921
+2024-05-02 00:42:55,920 - bam_logger - DEBUG - Long 100.093702
+2024-05-02 00:42:59,092 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/7290
+2024-05-02 00:42:59,105 - bam_logger - DEBUG - Name ห้องชุดพักอาศัย 1 ยูนิต อาคารชุด ยันฮีคอนโดมิเนียม ห้อง 126/166
+2024-05-02 00:42:59,118 - bam_logger - DEBUG - Price 315,000 บาท
+2024-05-02 00:42:59,152 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20200213155155.jpg
+2024-05-02 00:42:59,510 - bam_logger - DEBUG - Area 38.85 ตร.ม.
+2024-05-02 00:42:59,639 - bam_logger - DEBUG - Location เลขที่ 126/166 ชั้น 6 โครงการ ยันฮีคอนโดมิเนียม อาคาร 1 สูง 6 ชั้น (หลังไฟฟ้าฝ่ายผลิตพระราม 7)ตำบล บางกรวย
+2024-05-02 00:42:59,640 - bam_logger - DEBUG - Province นนทบุรี
+2024-05-02 00:42:59,640 - bam_logger - DEBUG - Sub District : บางกรวย
+2024-05-02 00:42:59,653 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:42:59,698 - bam_logger - DEBUG - Lat 13.81311
+2024-05-02 00:42:59,698 - bam_logger - DEBUG - Long 100.50237
+2024-05-02 00:43:02,878 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/8668
+2024-05-02 00:43:02,890 - bam_logger - DEBUG - Name ที่ดินเปล่า 2 แปลง
+2024-05-02 00:43:02,902 - bam_logger - DEBUG - Price 39,000,000 บาท
+2024-05-02 00:43:02,916 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20160428132519.JPG
+2024-05-02 00:43:03,247 - bam_logger - DEBUG - Area 15 ไร่ 1 งาน 27.20 ตร.ว.
+2024-05-02 00:43:03,376 - bam_logger - DEBUG - Location ตั้งติดถนนเกตเวย์ซิตี้ ซอย 5 (ลาดยาง 8 เมตร/เขตทาง 16 เมตร) ห่างจากกทางหลวงสาย 304 (เลี่ยงเมือง) หลักกม.ที่ 19+700 ประมาณ 3.8 กม. โดยแยกเข้าถนนนิคมอุตสาหกรรมเกตเวย์ซิตี้ประมาณ 1.50 กม.จากนั้นแยกเข้าถนนเกตเวย์ซิตี้ประมาณ 2.10 กม. จากนั้นแยกเข้าถนนเกตเวย์ซิตี้ ซอย 5 ประมาณ 200 เมตร จะถึงทรัพย์ตั้งอยู่ทางด้านขวามือ หน้ากว้าง 135 เมตร
+2024-05-02 00:43:03,377 - bam_logger - DEBUG - Province ฉะเชิงเทรา
+2024-05-02 00:43:03,377 - bam_logger - DEBUG - Sub District : แปลงยาว
+2024-05-02 00:43:03,390 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:03,438 - bam_logger - DEBUG - Lat 13.609123
+2024-05-02 00:43:03,439 - bam_logger - DEBUG - Long 101.339297
+2024-05-02 00:43:06,585 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/10029
+2024-05-02 00:43:06,597 - bam_logger - DEBUG - Name สายไหมพูนสุข : คอนโดราคาพิเศษ
+2024-05-02 00:43:06,611 - bam_logger - DEBUG - Price 150,000 บาท
+2024-05-02 00:43:06,621 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_68a994a3e1f5b15ec4e45d785d674f5731612216.jpg
+2024-05-02 00:43:06,948 - bam_logger - DEBUG - Area 25.67 ตร.ม.
+2024-05-02 00:43:07,071 - bam_logger - DEBUG - Location ห้องชุดเลขที่ 10/3/47 ชั้น 5 อาคารบี โครงการอาคารชุดสายไหมพูนสุข ซอยพหลโยธิน 54/1 (ซอยคลองถนน) ห่างจากถนนพหลโยธิน ประมาณ 4.5 กม. แขวงคลองหกวาสายล่างฝั่งใต้
+2024-05-02 00:43:07,072 - bam_logger - DEBUG - Province กรุงเทพมหานคร
+2024-05-02 00:43:07,072 - bam_logger - DEBUG - Sub District : บางเขน
+2024-05-02 00:43:07,089 - bam_logger - DEBUG - Proptype : ห้องชุดพักอาศัย
+2024-05-02 00:43:07,134 - bam_logger - DEBUG - Lat 13.928168
+2024-05-02 00:43:07,134 - bam_logger - DEBUG - Long 100.636640
+2024-05-02 00:43:10,327 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/10613
+2024-05-02 00:43:10,350 - bam_logger - DEBUG - Name ที่ดินเปล่า
+2024-05-02 00:43:10,369 - bam_logger - DEBUG - Price 3,825,000 บาท
+2024-05-02 00:43:10,386 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20190214163313.jpg
+2024-05-02 00:43:10,853 - bam_logger - DEBUG - Area 2 งาน 4.00 ตร.ว.
+2024-05-02 00:43:11,035 - bam_logger - DEBUG - Location ถนนเพชรเกษม (ทล.4) กม.164+500
+2024-05-02 00:43:11,035 - bam_logger - DEBUG - Province เพชรบุรี
+2024-05-02 00:43:11,035 - bam_logger - DEBUG - Sub District : เมืองเพชรบุรี
+2024-05-02 00:43:11,057 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:11,120 - bam_logger - DEBUG - Lat 13.112652
+2024-05-02 00:43:11,121 - bam_logger - DEBUG - Long 99.929966
+2024-05-02 00:43:14,307 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/10627
+2024-05-02 00:43:14,329 - bam_logger - DEBUG - Name ที่ดินเปล่า โครงการเนเจอร์โฮม
+2024-05-02 00:43:14,349 - bam_logger - DEBUG - Price 1,064,000 บาท
+2024-05-02 00:43:14,363 - bam_logger - DEBUG - Image https://www.bam.co.th/uploads/asset/fullsize/full_20220429173026.jpg
+2024-05-02 00:43:14,809 - bam_logger - DEBUG - Area 1 งาน 52.00 ตร.ว.
+2024-05-02 00:43:14,995 - bam_logger - DEBUG - Location โครงการเนเจอร์โฮม ถนนเชียงใหม่-ฮอด (ทล.108) กม.18+800 ตำบล หารแก้ว
+2024-05-02 00:43:14,995 - bam_logger - DEBUG - Province เชียงใหม่
+2024-05-02 00:43:14,995 - bam_logger - DEBUG - Sub District : หางดง
+2024-05-02 00:43:15,026 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:15,098 - bam_logger - DEBUG - Lat 18.65578
+2024-05-02 00:43:15,098 - bam_logger - DEBUG - Long 98.90151
+2024-05-02 00:43:18,309 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/10951
+2024-05-02 00:43:18,332 - bam_logger - DEBUG - Name บ้านเดี่ยว
+2024-05-02 00:43:18,358 - bam_logger - DEBUG - Price 780,000 บาท
+2024-05-02 00:43:18,377 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/9e1ee0b4-20211015_120600.jpg
+2024-05-02 00:43:18,885 - bam_logger - DEBUG - Area 1 ไร่ 2 งาน 80.00 ตร.ว.
+2024-05-02 00:43:19,063 - bam_logger - DEBUG - Location โครงการจัดสรรบาโคนีฮิลล์ หรือ โครงการจัดสรรเชียงรายคันทรีฮิลล์ (เดิม)ถนน สายแม่สรวย-ฝาง กม.3+200
+2024-05-02 00:43:19,063 - bam_logger - DEBUG - Province เชียงราย
+2024-05-02 00:43:19,063 - bam_logger - DEBUG - Sub District : แม่สรวย
+2024-05-02 00:43:19,084 - bam_logger - DEBUG - Proptype : บ้านเดี่ยว
+2024-05-02 00:43:19,147 - bam_logger - DEBUG - Lat 19.656354
+2024-05-02 00:43:19,147 - bam_logger - DEBUG - Long 99.512147
+2024-05-02 00:43:22,346 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11013
+2024-05-02 00:43:22,364 - bam_logger - DEBUG - Name ที่ดินเปล่า
+2024-05-02 00:43:22,380 - bam_logger - DEBUG - Price 200,000 บาท
+2024-05-02 00:43:22,397 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/1a6def59-IMG_20220927_143457.jpg
+2024-05-02 00:43:22,899 - bam_logger - DEBUG - Area 3 งาน 17.90 ตร.ว.
+2024-05-02 00:43:23,135 - bam_logger - DEBUG - Location โครงการมุ่งเกษมปาร์ควิว 2 ห่างจากถนนจอมทอง-ป่าซาง ประมาณ 450 เมตร ตำบล หนองล่อง
+2024-05-02 00:43:23,135 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:43:23,136 - bam_logger - DEBUG - Sub District : กิ่งอำเภอเวียงหนองล่อง
+2024-05-02 00:43:23,151 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:23,252 - bam_logger - DEBUG - Lat 18.4000616
+2024-05-02 00:43:23,252 - bam_logger - DEBUG - Long 98.7245136
+2024-05-02 00:43:26,407 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11014
+2024-05-02 00:43:26,419 - bam_logger - DEBUG - Name ที่ดินเปล่า
+2024-05-02 00:43:26,436 - bam_logger - DEBUG - Price 220,000 บาท
+2024-05-02 00:43:26,450 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/59232d54-IMG_20220927_144002.jpg
+2024-05-02 00:43:26,809 - bam_logger - DEBUG - Area 3 งาน 44.40 ตร.ว.
+2024-05-02 00:43:26,937 - bam_logger - DEBUG - Location โครงการมุ่งเกษมปาร์ควิว 2 ห่างจากถนนจอมทอง-ป่าซางประมาณ 500 เมตร ตำบล หนองล่อง
+2024-05-02 00:43:26,938 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:43:26,938 - bam_logger - DEBUG - Sub District : กิ่งอำเภอเวียงหนองล่อง
+2024-05-02 00:43:26,950 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:26,996 - bam_logger - DEBUG - Lat 18.4000616
+2024-05-02 00:43:26,997 - bam_logger - DEBUG - Long 98.7245136
+2024-05-02 00:43:31,325 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11153
+2024-05-02 00:43:31,339 - bam_logger - DEBUG - Name ที่ดินเปล่า 3 แปลงติดต่อกัน รูปหลายเหลี่ยม ยังไม่ถม
+2024-05-02 00:43:31,354 - bam_logger - DEBUG - Price 40,000,000 บาท
+2024-05-02 00:43:31,383 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/38ecb81a-IMG_7138.JPG
+2024-05-02 00:43:31,732 - bam_logger - DEBUG - Area 43 ไร่ 1 งาน 30.00 ตร.ว.
+2024-05-02 00:43:31,880 - bam_logger - DEBUG - Location ถนน เพชรเกษม บริเวณ กม.319
+2024-05-02 00:43:31,881 - bam_logger - DEBUG - Province ประจวบคีรีขันธ์
+2024-05-02 00:43:31,881 - bam_logger - DEBUG - Sub District : เมืองประจวบคีรีขันธ์
+2024-05-02 00:43:31,893 - bam_logger - DEBUG - Proptype : ที่ดินเกษตรกรรม
+2024-05-02 00:43:31,938 - bam_logger - DEBUG - Lat 11.855715
+2024-05-02 00:43:31,939 - bam_logger - DEBUG - Long 99.784375
+2024-05-02 00:43:35,066 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11153
+2024-05-02 00:43:35,077 - bam_logger - DEBUG - Name ที่ดินเปล่า 3 แปลงติดต่อกัน รูปหลายเหลี่ยม ยังไม่ถม
+2024-05-02 00:43:35,090 - bam_logger - DEBUG - Price 40,000,000 บาท
+2024-05-02 00:43:35,102 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/38ecb81a-IMG_7138.JPG
+2024-05-02 00:43:35,443 - bam_logger - DEBUG - Area 43 ไร่ 1 งาน 30.00 ตร.ว.
+2024-05-02 00:43:35,580 - bam_logger - DEBUG - Location ถนน เพชรเกษม บริเวณ กม.319
+2024-05-02 00:43:35,580 - bam_logger - DEBUG - Province ประจวบคีรีขันธ์
+2024-05-02 00:43:35,580 - bam_logger - DEBUG - Sub District : เมืองประจวบคีรีขันธ์
+2024-05-02 00:43:35,596 - bam_logger - DEBUG - Proptype : ที่ดินเกษตรกรรม
+2024-05-02 00:43:35,643 - bam_logger - DEBUG - Lat 11.855715
+2024-05-02 00:43:35,644 - bam_logger - DEBUG - Long 99.784375
+2024-05-02 00:43:38,813 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11014
+2024-05-02 00:43:38,825 - bam_logger - DEBUG - Name ที่ดินเปล่า
+2024-05-02 00:43:38,840 - bam_logger - DEBUG - Price 220,000 บาท
+2024-05-02 00:43:38,851 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/59232d54-IMG_20220927_144002.jpg
+2024-05-02 00:43:39,187 - bam_logger - DEBUG - Area 3 งาน 44.40 ตร.ว.
+2024-05-02 00:43:39,321 - bam_logger - DEBUG - Location โครงการมุ่งเกษมปาร์ควิว 2 ห่างจากถนนจอมทอง-ป่าซางประมาณ 500 เมตร ตำบล หนองล่อง
+2024-05-02 00:43:39,321 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:43:39,321 - bam_logger - DEBUG - Sub District : กิ่งอำเภอเวียงหนองล่อง
+2024-05-02 00:43:39,341 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:39,404 - bam_logger - DEBUG - Lat 18.4000616
+2024-05-02 00:43:39,404 - bam_logger - DEBUG - Long 98.7245136
+2024-05-02 00:43:42,582 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/11013
+2024-05-02 00:43:42,594 - bam_logger - DEBUG - Name ที่ดินเปล่า
+2024-05-02 00:43:42,608 - bam_logger - DEBUG - Price 200,000 บาท
+2024-05-02 00:43:42,620 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/1a6def59-IMG_20220927_143457.jpg
+2024-05-02 00:43:42,974 - bam_logger - DEBUG - Area 3 งาน 17.90 ตร.ว.
+2024-05-02 00:43:43,103 - bam_logger - DEBUG - Location โครงการมุ่งเกษมปาร์ควิว 2 ห่างจากถนนจอมทอง-ป่าซาง ประมาณ 450 เมตร ตำบล หนองล่อง
+2024-05-02 00:43:43,103 - bam_logger - DEBUG - Province ลำพูน
+2024-05-02 00:43:43,104 - bam_logger - DEBUG - Sub District : กิ่งอำเภอเวียงหนองล่อง
+2024-05-02 00:43:43,118 - bam_logger - DEBUG - Proptype : ที่ดินเปล่า
+2024-05-02 00:43:43,166 - bam_logger - DEBUG - Lat 18.4000616
+2024-05-02 00:43:43,167 - bam_logger - DEBUG - Long 98.7245136
+2024-05-02 00:43:46,336 - bam_logger - DEBUG - Link https://www.bam.co.th/propertydetail/10951
+2024-05-02 00:43:46,348 - bam_logger - DEBUG - Name บ้านเดี่ยว
+2024-05-02 00:43:46,361 - bam_logger - DEBUG - Price 780,000 บาท
+2024-05-02 00:43:46,380 - bam_logger - DEBUG - Image https://bam-bo-fs-prd.bam.co.th/bam/9e1ee0b4-20211015_120600.jpg
+2024-05-02 00:43:46,706 - bam_logger - DEBUG - Area 1 ไร่ 2 งาน 80.00 ตร.ว.
+2024-05-02 00:43:46,833 - bam_logger - DEBUG - Location โครงการจัดสรรบาโคนีฮิลล์ หรือ โครงการจัดสรรเชียงรายคันทรีฮิลล์ (เดิม)ถนน สายแม่สรวย-ฝาง กม.3+200
+2024-05-02 00:43:46,833 - bam_logger - DEBUG - Province เชียงราย
+2024-05-02 00:43:46,833 - bam_logger - DEBUG - Sub District : แม่สรวย
+2024-05-02 00:43:46,848 - bam_logger - DEBUG - Proptype : บ้านเดี่ยว
+2024-05-02 00:43:46,895 - bam_logger - DEBUG - Lat 19.656354
+2024-05-02 00:43:46,895 - bam_logger - DEBUG - Long 99.512147
+2024-05-02 00:43:47,114 - bam_logger - INFO - Done Scraping without Error
