@@ -21,6 +21,7 @@ import logging
 filename = f'scrape_bam_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx'
 log_file = f'logging_bam_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
 
+logging.basicConfig(filename=log_file,level=logging.DEBUG, filemode='w', format='%(name)s - %(levelname)s - %(message)s')
 
 
 # option headless
