@@ -44,7 +44,7 @@ bangkok_file_handler.setLevel(logging.DEBUG)
 kasikorn_file_handler = logging.FileHandler(f'kasikorn_logs_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log')
 kasikorn_file_handler.setLevel(logging.DEBUG)
 
-bam_file_handler = logging.FileHandler(f'bam_logs.log_{datetime.now().strftime("%Y%m%d_%H%M%S")}')
+bam_file_handler = logging.FileHandler(f'bam_logs_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log_')
 bam_file_handler.setLevel(logging.DEBUG)
 
 # Create formatters
