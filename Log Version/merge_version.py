@@ -16,10 +16,11 @@ import schedule
 from datetime import datetime
 from selenium.webdriver.chrome.options import Options
 import logging
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 # set logging file 
-    
-
 # Create loggers for each function
 ghb_logger = logging.getLogger('ghb_logger')
 ghb_logger.setLevel(logging.DEBUG)
@@ -63,6 +64,42 @@ kasikorn_logger.addHandler(kasikorn_file_handler)
 bam_logger.addHandler(bam_file_handler)
 
 
+# Set Email Sender
+sender_email = "xxxxx@gmail.com"
+
+# ใส่ Google App Password
+# 1. เปิด 2-Factor Authentication ของ Google
+# 2. ไป generate APP Password ที่ลิงค์นี้ https://myaccount.google.com/apppasswords
+# 3. เอา Password มาใส่ที่ตัวแปร sender_password 
+sender_password = "lahhkaaaakzevduo"
+recipient_email = "aaaaa@gmail.com"
+subject = "Test Email"
+message = "This is a test email sent from Python."
+
+
+
+def send_email(sender_email, sender_password, recipient_email, subject, message):
+    # Set up the MIME
+    msg = MIMEMultipart()
+    msg['From'] = sender_email
+    msg['To'] = recipient_email
+    msg['Subject'] = subject
+
+    # Attach the message to the MIME
+    msg.attach(MIMEText(message, 'plain'))
+
+    # Connect to the SMTP server
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()
+    server.login(sender_email, sender_password)
+
+    # Send the email
+    server.sendmail(sender_email, recipient_email, msg.as_string())
+
+    # Quit the server
+    server.quit()
+
+
 
 def scrape_ghb(start_page):
     
@@ -93,7 +130,7 @@ def scrape_ghb(start_page):
     #end = int(lisqp[-2])
     
     # เซต test
-    end = 3
+    end = int(lisqp[-2]) # หน้าสุดท้าย 
     print("End Page : {}".format(end))
     ghb_logger.info(f"End Page : {end}")
 
@@ -301,8 +338,11 @@ def scrape_ghb(start_page):
 
     print("finish")
     
-    if len(name_lis) == 0:
+
+    if len(df) == 0:
         ghb_logger.error("Error Scraping , Please check the website layout!!")
+        send_email(sender_email, sender_password, recipient_email, subject, "Error Scraping , Please check the website layout!!")
+
     else: 
         ghb_logger.info('Done Scraping without Error')
 
@@ -327,7 +367,7 @@ def scrape_bangkok():
 
 
     start = 1 
-    end = 1 
+    end = 24
     url_lis = []
 
     name_lis = []
@@ -499,8 +539,10 @@ def scrape_bangkok():
     df.to_excel(filename)
 
 
-    if len(name_lis) == 0:
+    if len(df) == 0:
         bangkok_logger.error("Error Scraping , Please check the website layout!!")
+        send_email(sender_email, sender_password, recipient_email, subject, "Error Scraping , Please check the website layout!!")
+
     else: 
         bangkok_logger.info('Done Scraping without Error')
 
@@ -528,7 +570,7 @@ def scrape_bam():
     time.sleep(3)
 
     start = 1 
-    end = 2 # end page 
+    end = 555 # end page 
 
 
     df = pd.DataFrame()
@@ -691,8 +733,10 @@ def scrape_bam():
     df.dropna()
     df.to_excel(filename)
 
-    if len(name_lis) == 0:
+    if len(df) == 0:
         bam_logger.error("Error Scraping , Please check the website layout!!")
+        send_email(sender_email, sender_password, recipient_email, subject, "Error Scraping , Please check the website layout!!")
+
     else: 
         bam_logger.info('Done Scraping without Error')
 
@@ -711,7 +755,7 @@ def scrape_kasikorn():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
     start = 1 
-    end = 2  # end page 
+    end = 50  # end
 
 
     main_url = "https://www.kasikornbank.com/th/propertyforsale/search/pages/index.aspx?&CurrentPageIndex=4&Ordering=Hot&Tab=newProperty"
@@ -835,8 +879,10 @@ def scrape_kasikorn():
     df.dropna()
     df.to_excel(filename)
 
-    if len(name_lis) == 0:
+    if len(df) == 0:
         kasikorn_logger.error("Error Scraping , Please check the website layout!!")
+        send_email(sender_email, sender_password, recipient_email, subject, "Error Scraping , Please check the website layout!!")
+
     else: 
         kasikorn_logger.info('Done Scraping without Error')
 
